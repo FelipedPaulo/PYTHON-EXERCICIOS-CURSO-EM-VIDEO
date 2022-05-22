@@ -1,4 +1,4 @@
-# PYTHON-EXERCÍCIOS-CURSO-EM-VIDEO
+# PYTHON-EXERCÍCIOS-CURSO-EM-VÍDEO
  
  ### Exercícios de Python do Curso em Vídeo
 
