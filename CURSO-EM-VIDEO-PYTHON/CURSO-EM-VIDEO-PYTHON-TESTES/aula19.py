@@ -1,0 +1,6 @@
+# Dicionários
+
+# Tuplas ()
+# Lista []
+# Dicionários {}
+
